@@ -64,10 +64,10 @@ const Index = () => {
           {/* Logo/Header */}
           <div className="p-6 border-b border-border">
             <h2 className="text-xl font-bold text-foreground">
-              School Attendance
+              Attend Ease
             </h2>
             <p className="text-sm text-muted-foreground mt-1">
-              Rural Education System
+              Attendance Made Easy
             </p>
           </div>
 
