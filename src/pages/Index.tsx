@@ -108,7 +108,7 @@ const Index = () => {
       </div>
 
       {/* Main Content */}
-      <div className="lg:ml-16">
+      <div className="lg:ml-64">
         {/* Mobile Overlay */}
         {sidebarOpen && (
           <div 
@@ -118,7 +118,7 @@ const Index = () => {
         )}
         
         {/* Content Area */}
-        <main className="p-4 lg:p-8 pt-4 lg:pt-4">
+        <main className="p-4 lg:p-8 pt-0 lg:pt-0">
           {renderContent()}
         </main>
       </div>
