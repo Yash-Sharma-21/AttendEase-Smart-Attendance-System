@@ -118,7 +118,7 @@ const Index = () => {
         )}
         
         {/* Content Area */}
-        <main className="p-4 lg:p-8 pt-16 lg:pt-8">
+        <main className="p-4 lg:p-8 pt-4 lg:pt-4">
           {renderContent()}
         </main>
       </div>
