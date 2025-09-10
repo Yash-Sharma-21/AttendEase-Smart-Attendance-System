@@ -63,8 +63,8 @@ const Index = () => {
         <div className="flex flex-col h-full">
           {/* Logo/Header */}
           <div className="p-6 border-b border-border">
-            <h2 className="text-xl font-bold text-foreground">
-              Attend Ease
+            <h2 className="text-4xl font-bold text-foreground">
+              AttendEase
             </h2>
             <p className="text-sm text-muted-foreground mt-1">
               Attendance Made Easy
