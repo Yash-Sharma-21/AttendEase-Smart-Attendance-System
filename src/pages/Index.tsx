@@ -118,7 +118,9 @@ const Index = () => {
         )}
         
         {/* Content Area */}
-        <main className="p-4 lg:p-8 pt-0 lg:pt-0">
+        <main className="p-4 lg:p-8"
+          style={{ marginTop: "-24rem" }}
+          >
           {renderContent()}
         </main>
       </div>
