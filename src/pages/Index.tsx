@@ -108,7 +108,7 @@ const Index = () => {
       </div>
 
       {/* Main Content */}
-      <div className="lg:ml-64">
+      <div className="lg:ml-16">
         {/* Mobile Overlay */}
         {sidebarOpen && (
           <div 
