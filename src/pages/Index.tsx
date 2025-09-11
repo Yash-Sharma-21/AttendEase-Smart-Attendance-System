@@ -119,7 +119,7 @@ const Index = () => {
         
         {/* Content Area */}
         <main className="p-4 lg:p-8"
-          style={{ marginTop: "-64vh" }}
+          style={{ marginTop: "-39%" }}
           >
           {renderContent()}
         </main>
