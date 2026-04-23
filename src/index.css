@@ -113,6 +113,6 @@ All colors MUST be HSL.
 
   body {
     @apply bg-background text-foreground;
-    margin:0px
+    margin-top:20px
   }
 }
